@@ -1,0 +1,1 @@
+To better demonstrate the effectiveness of the proposed method, confusion matrixandt-SNE plots are drawn for four different scenarios: In-Domain Evaluation, Cross-Condition Generalization, Cross-Domain Generalization, andCross-Domain and Cross-Condition Generalization, using different datasets for each.
